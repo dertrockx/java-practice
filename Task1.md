@@ -28,3 +28,5 @@
 
 ## NOTE!
 * I highly recommend you to answer these exercises ON YOUR OWN. That way, you'll learn how to actually code on your own.
+* Your last resort is to ask help from each other or from me.
+* Good luck! ;) 

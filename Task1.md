@@ -24,4 +24,4 @@
 	```
 
 ## Tip
-* you can look for [Math.round](https://www.tutorialspoint.com/java/lang/math_round_float.htm) or refer to this [stackoverflow question](https://stackoverflow.com/questions/153724/how-to-round-a-number-to-n-decimal-places-in-java) or [this](https://stackoverflow.com/questions/11701399/round-up-to-2-decimal-places-in-java)
+* you can look for [Math.round](https://www.tutorialspoint.com/java/lang/math_round_float.htm) or refer to this [stackoverflow question](https://stackoverflow.com/questions/153724/how-to-round-a-number-to-n-decimal-places-in-java) or [this](https://stackoverflow.com/questions/11701399/round-up-to-2-decimal-places-in-java) or [this](https://stackoverflow.com/questions/2538787/how-to-display-an-output-of-float-data-with-2-decimal-places-in-java)

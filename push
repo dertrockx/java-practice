@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# A script to automate add, commit and push
+# Why? because I'm a lazy person.
+
+git add . && git commit && git push -u origin master
